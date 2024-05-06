@@ -1,0 +1,4 @@
+com\App.class
+com\model\Task.class
+com\model\TaskStatus.class
+com\service\TaskProducerService.class
